@@ -1,4 +1,20 @@
 ###################
+Konecta Prueba Practica Josue Fernandez
+###################
+
+Este proyecto hace parte de una prueba tecnica realizada para konecta.
+Este proyecto corre con el Framework CodeIgniter 3.
+No es necesaria ninguna ejecucion o instalacion extra a la de crear e instalar un proyecto con CodeIgniter.
+Las credenciales por defecto de la base de datos son:
+usuario: root
+contraseña: 123456789
+base de datos: konecta
+tipo de motor de base de datos: MySQL
+
+Los modelos utilizados son
+Employee y Aplications
+
+###################
 What is CodeIgniter
 ###################
 
